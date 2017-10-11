@@ -1,0 +1,1 @@
+The query rewriter is just for aesthetics right now as there is nothing to 'flatten' or whatever.

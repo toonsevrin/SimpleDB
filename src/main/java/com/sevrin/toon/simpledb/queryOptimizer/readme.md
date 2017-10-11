@@ -1,0 +1,1 @@
+The query optimizer is just for aesthetics right now as there is nothing to optimize internally rn.

@@ -1,0 +1,1 @@
+(Intelligently) decides whether or not to cache records in-memory.

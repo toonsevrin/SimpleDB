@@ -1,0 +1,1 @@
+Assigns and releases records their locks.

@@ -4,7 +4,10 @@ Simple java backed database to train database infra
 
 ##QUERY LANGUAGE
 
-Uses SQLlike syntax, though this is an extremely simple Key-Value DB.
+Uses SQLlike syntax, though this is an extremely simple Key-Value DB. The language is embeddable and declerative.
+=> May cause an Impedance Mismatch problem (eg. OOP language has to translate to the key/value system)
+
+
 
 ### Requests
 
